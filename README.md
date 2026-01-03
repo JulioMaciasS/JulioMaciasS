@@ -41,23 +41,11 @@ A professional blog and landing page built with **Next.js & Supabase**, deployed
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=JulioMaciasS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=JulioMaciasS&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioMaciasS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioMaciasS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=JulioMaciasS&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioMaciasS&theme=tokyonight&hide_border=true&layout=compact)
 
 ## 📫 Get in Touch  
 
