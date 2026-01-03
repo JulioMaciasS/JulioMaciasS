@@ -36,7 +36,7 @@ A professional blog and landing page built with **Next.js & Supabase**, deployed
 
 🔗 Live Demo 🕹️: [https://eugeniabravo-public.vercel.app](https://eugeniabravo-public.vercel.app)  
 🔗 Live Website: [www.eugeniabravo.com](https://www.eugeniabravo.com)  
-
+🔗 Feature walkthrough blog: **https://portfolio.juliodev.co.uk/projects/eugeniabravo-rebuild**
 
 ---
 
