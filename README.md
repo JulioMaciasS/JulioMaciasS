@@ -7,8 +7,8 @@
 ---
 
 ## 🚀 About Me  
-I'm a full-stack developer passionate about building projects that blend **performance, usability, and design**.  
-I enjoy exploring **cloud technologies, AI, and extended reality (XR)**, and I’m always looking to learn something new.  
+I am a full-stack developer passionate about building projects that blend **performance, usability, and design**.  
+I enjoy exploring cutting-edge technologies that can make a difference and applying them to real projects, such as **agentic AI** in development.
 
 💡 My goal is to launch my career as a **graduate software engineer** and contribute to impactful projects.  
 
@@ -34,8 +34,9 @@ A professional blog and landing page built with **Next.js & Supabase**, deployed
 - Supabase auth with TOTP MFA enforcement and media storage  
 - Responsive design with TinyMCE editor, contact forms, and Google Maps embeds  
 
-🔗 Live Website: [www.eugeniabravodemo.com](https://www.eugeniabravo.com)  
-🔗 Live Website: [www.eugeniabravodemo.com](https://eugeniabravo-public.vercel.app)  
+🔗 Live Demo 🕹️: [https://eugeniabravo-public.vercel.app](https://eugeniabravo-public.vercel.app)  
+🔗 Live Website: [www.eugeniabravo.com](https://www.eugeniabravo.com)  
+
 
 ---
 
