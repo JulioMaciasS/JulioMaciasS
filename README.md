@@ -27,13 +27,14 @@ I enjoy exploring **cloud technologies, AI, and extended reality (XR)**, and I�
 
 ## 📌 Featured Project  
 
-### 🌐 [My Portfolio Website](https://github.com/JulioMaciasS/julioMG-portfolio)  
-A personal portfolio built with **React & Tailwind**, deployed on AWS.  
-- Responsive, animated, and modern UI  
-- Showcases my projects, background, and experience  
-- Designed with recruiters and collaborators in mind  
+### 🌐 [EugeniaBravoDemo](https://github.com/JulioMaciasS/eugeniabravo-public)  
+A professional blog and landing page built with **Next.js & Supabase**, deployed on Vercel.  
+- Full-stack application with authenticated admin dashboard for content management  
+- Rich blog system with categories, SEO optimization, and Google Analytics integration  
+- Supabase auth with TOTP MFA enforcement and media storage  
+- Responsive design with TinyMCE editor, contact forms, and Google Maps embeds  
 
-🔗 Live Demo: [portfolio.juliodev.co.uk](http://portfolio.juliodev.co.uk/)  
+🔗 Live Demo: [www.eugeniabravodemo.com](https://www.eugeniabravodemo.com)  
 
 ---
 
