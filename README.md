@@ -44,21 +44,8 @@ A professional blog and landing page built with **Next.js & Supabase**, deployed
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JulioMaciasS&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=JulioMaciasS&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulioMaciasS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    alt="Top Languages"
     height="165"
   />
 </p>
