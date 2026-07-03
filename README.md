@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Julio Macias Gonzalez  
 
-🎓 Computer Science student at **Queen’s University Belfast** (BSc with Professional Experience)  
+🎓 2:1 Computer Science graduate at **Queen’s University Belfast** (BSc with Professional Experience)  
 💼 Looking for **Graduate Software Engineering opportunities (2026 start)**  
-🌍 Based in Belfast, Northern Ireland | Native Spanish speaker | Fluent in English  
+🌍 Based in Dublin, Ireland | Native English and Spanish speaker
 
 ---
 
